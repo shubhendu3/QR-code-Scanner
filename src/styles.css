@@ -23,8 +23,9 @@ h1 {
 
 #qr-canvas {
   margin: auto;
-  width: calc(100% - 20px);
+  width: calc(100% - 60px);
   max-width: 400px;
+  height: 400px;
 }
 
 #btn-scan-qr {
